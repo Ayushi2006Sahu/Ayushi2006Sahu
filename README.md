@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ayushi2006Sahu
 - 👀 I’m interested in Web Development and coding
 - 🌱 I’m currently learning New Technology like react etc
-- 💞️ I’m looking to collaborate on various unique projexts
+- 💞️ I’m looking to collaborate on various unique projects
 - 📫 How to reach me via Github
 - 😄 Pronouns: She
 - ⚡ Fun fact: Music is constant
