@@ -32,9 +32,9 @@ Portfolio: [Portfolio](https://my-portfolioayushi.vercel.app/)
 
 ## 📊 GitHub Stats  
 
-![Ayushi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AyushiSahu&show_icons=true&theme=radical)  
+![Ayushi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ayushi2006Sahu&show_icons=true&theme=radical)  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AyushiSahu&layout=compact&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushi2006Sahu&layout=compact&theme=radical)  
 
 
 
