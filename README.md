@@ -3,7 +3,8 @@
 🚀 **Hungry to work | Devoted to learn | Passionate about building impactful solutions**  
 
 I am an aspiring Software Developer with a strong interest in **Web Development, Problem-Solving, and AI/ML**.  
-Currently exploring new technologies and polishing my coding skills to build real-world applications.  
+Currently exploring new technologies and polishing my coding skills to build real-world applications. 
+Portfolio: [Portfolio](https://my-portfolioayushi.vercel.app/)
 
 ---
 
@@ -25,7 +26,16 @@ Currently exploring new technologies and polishing my coding skills to build rea
 `HTML` `CSS` `React` `Node.js`  
 
 **Other Tools:**  
-`Git & GitHub` `VS Code` `Figma` `Postman`  
+`Git & GitHub` `VS Code` `Figma` `Postman` 
+
+---
+
+## 📊 GitHub Stats  
+
+![Ayushi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AyushiSahu&show_icons=true&theme=radical)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AyushiSahu&layout=compact&theme=radical)  
+
 
 
 ---
@@ -33,7 +43,7 @@ Currently exploring new technologies and polishing my coding skills to build rea
 ## 🌐 Connect with Me  
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/ayushi-sahu-419921294/)  
-- 📧 Email: **your.email@example.com**  
+    
 
 ---
 
