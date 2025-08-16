@@ -1,12 +1,41 @@
-- 👋 Hi, I’m @Ayushi2006Sahu
-- 👀 I’m interested in Web Development and coding
-- 🌱 I’m currently learning New Technology like react etc
-- 💞️ I’m looking to collaborate on various unique projects
-- 📫 How to reach me via Github
-- 😄 Pronouns: She
-- ⚡ Fun fact: Music is constant
+# Hi there 👋, I'm Ayushi Sahu  
 
-<!---
-Ayushi2006Sahu/Ayushi2006Sahu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 **Hungry to work | Devoted to learn | Passionate about building impactful solutions**  
+
+I am an aspiring Software Developer with a strong interest in **Web Development, Problem-Solving, and AI/ML**.  
+Currently exploring new technologies and polishing my coding skills to build real-world applications.  
+
+---
+
+## 🌟 About Me  
+- 🎓 Computer Science Enthusiast  
+- 💡 Love solving logical & coding challenges  
+- 🌱 Currently learning **JavaScript, React, and Backend Development**  
+- 🤝 Open to collaborate on **open-source projects, internships, and hackathons**  
+- ✨ Always curious to learn and explore new domains  
+
+---
+
+## 🛠️ Skills & Tools  
+
+**Languages:**  
+`Python` `C++` `JavaScript` `C`  
+
+**Web Development:**  
+`HTML` `CSS` `React` `Node.js`  
+
+**Other Tools:**  
+`Git & GitHub` `VS Code` `Figma` `Postman`  
+
+
+---
+
+## 🌐 Connect with Me  
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/ayushi-sahu-419921294/)  
+- 📧 Email: **your.email@example.com**  
+
+---
+
+✨ *"Passionate about learning, building, and growing every day."*  
+
